@@ -1,6 +1,6 @@
 This is the first website I created, very basic.
 
-The aim was to create a responsive website so that it would look good on all platforms.
+The aim was to create a responsive website so that it would look good at all viewports.
 
 Used Flexbox for the 4 articles just to get some practice with it.
 
